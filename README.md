@@ -1,4 +1,8 @@
 název projektu
-stručné zadání
-co mají během projektu doplnit
-odkaz na GitHub Pages až později doplní sam
+jména členů týmu
+téma aplikace
+cílový uživatel
+3 plánované funkce
+checklist po hodinách
+místo pro odkaz na GitHub Pages
+místo pro stručné sebehodnocení
